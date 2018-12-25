@@ -1,0 +1,29 @@
+.new-view {
+  padding: 200px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.new-view__inner {
+  width: 860px;
+}
+
+.new-view__heading {
+  font-size: 64px;
+  margin-bottom: 25px;
+}
+
+.new-view__list {
+  display: flex;
+  list-style: none;
+  padding: 75px 0 0 0;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.new-view__element {
+  width: 345px;
+  margin-bottom: 45px;
+}

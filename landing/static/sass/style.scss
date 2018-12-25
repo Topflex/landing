@@ -1,0 +1,20 @@
+@import "./font.scss";
+@import "blocks/header.scss";
+@import "blocks/btn.scss";
+@import "blocks/slider.scss";
+@import "blocks/salt.scss";
+@import "blocks/feature.scss";
+@import "blocks/new-view.scss";
+@import "blocks/footer.scss";
+
+html {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans';
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+}

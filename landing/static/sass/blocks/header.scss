@@ -1,0 +1,26 @@
+.main-header {
+  background-color: black;
+  color: white;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px 0;
+}
+
+.main-header__inner {
+  width: 860px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-header__heading {
+  font-size: 64px;
+  width: 540px;
+}
+
+.main-header__text {
+  width: 440px;
+  font-size: 18px;
+}
+

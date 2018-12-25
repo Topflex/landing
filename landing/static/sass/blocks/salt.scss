@@ -1,0 +1,28 @@
+.salt {
+  padding: 200px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.salt__inner {
+  width: 860px;
+}
+
+.salt__heading {
+  font-size: 64px;
+  margin-bottom: 25px;
+}
+
+.salt__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.salt__features {
+  width: 340px;
+  list-style: none;
+  padding: 0;
+}

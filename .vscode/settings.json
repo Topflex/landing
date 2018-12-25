@@ -1,0 +1,14 @@
+{
+  "python.pythonPath": "/home/squaredmonkey/.local/share/virtualenvs/landing-5CA4vZQt/bin/python",
+  "python.unitTest.unittestArgs": [
+    "-v",
+    "-s",
+    "./landing",
+    "-p",
+    "*_test.py"
+  ],
+  "python.unitTest.pyTestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false,
+  "python.unitTest.unittestEnabled": true,
+  "python.linting.pylintEnabled": false
+}
